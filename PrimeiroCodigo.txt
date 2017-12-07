@@ -5,8 +5,8 @@
 <title>Java Script Course</title>
 
 <script language="javascript">
-
-	alert("Bem Vindo");
+	var largura = window.innerWidht;
+	window.alert("Largura");
 
 
 </script>
