@@ -1,0 +1,20 @@
+<html>
+
+<head><script LANGUAGE="JAVASCRIPT">
+<!--
+agora=new Date()
+natal= new Date(2017,11,25)
+tempo=natal.getTime() - agora.getTime()
+tempo=tempo/(1000*60*60*24)
+tempo=Math.floor(tempo)
+window.alert("Faltam " + tempo + " dias para o Natal")
+
+//-->
+</script>
+
+<title></title>
+</head>
+
+<body>
+</body>
+</html>
